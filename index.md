@@ -18,9 +18,13 @@
 
 10/7 (土) 10:00 〜 19:00 （ここは確定してます）
 
+受付開始は 9:40 
+
 ### 場所
 
-福武ホール（http://fukutake.iii.u-tokyo.ac.jp/status/)
+東京大学　本郷キャンパス　福武ホール
+
+[Google Mpas](https://goo.gl/maps/jZDg54whAGG2)
 
 ### 人数
 
