@@ -139,3 +139,5 @@ Give and Give な人たちを連れてきて繋ぐ
 圧倒的な手作り感とハイテク（https://grip.events/ みたいなアプリを使う）
 やりたいことのポストイットを貼るボード（スタートアップ横断サークルとか）
 このイベントでマッチングしてコーヒー飲む約束したら 500 円（スタバカード, UT Cafe カードみたいな）
+
+Theme by [orderedlist](https://github.com/orderedlist)
