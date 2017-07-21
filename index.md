@@ -22,9 +22,7 @@
 
 ### 場所
 
-東京大学　本郷キャンパス　福武ホール
-
-[Google Mpas](https://goo.gl/maps/jZDg54whAGG2)
+東京大学　本郷キャンパス　福武ホール ([Google Mpas](https://goo.gl/maps/jZDg54whAGG2))
 
 ### 人数
 
