@@ -17,6 +17,14 @@
 
 ----
 
+## 運営
+
+運営へのアンケートにご回答ください！
+
+[https://goo.gl/forms/cNwLECz0nP57P79U2](https://goo.gl/forms/cNwLECz0nP57P79U2)
+
+----
+
 ## 概要
 
 ### 日時（確定）
