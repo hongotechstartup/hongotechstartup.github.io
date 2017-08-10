@@ -159,7 +159,7 @@
 
 - あの Exit したスタートアップのクローズド話
 - うちがやってる採用面白取り組み紹介
-- Alibaba 使いこなし術 (Ask me anything)
+- 調達 & Alibaba 使いこなし術 (Ask me anything)
 
 ----
 
