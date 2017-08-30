@@ -17,11 +17,15 @@
 
 ----
 
-## アンケート実施中
+## アンケート & イベント実施中
 
 運営へのアンケートにご回答ください！
 
 [https://goo.gl/forms/cNwLECz0nP57P79U2](https://goo.gl/forms/cNwLECz0nP57P79U2)
+
+8/31 (木) 19 時から Lab Cafe にて、従業員の皆様のご意見をお伺いする会を開催させていただきます。
+
+[https://www.facebook.com/events/471772346521488/](https://www.facebook.com/events/471772346521488/)
 
 ----
 
