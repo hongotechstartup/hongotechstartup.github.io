@@ -23,7 +23,7 @@
 
 [https://goo.gl/forms/cNwLECz0nP57P79U2](https://goo.gl/forms/cNwLECz0nP57P79U2)
 
-8/31 (木) 19 時から Lab Cafe にて、従業員の皆様のご意見をお伺いする会を開催させていただきます。
+8/31 (木) 19 時から Lab Cafe にて、従業員の皆様のご意見をお伺いする会を開催させていただきます（経営者、CxO の方は今回参加をご遠慮ください）。
 
 [https://www.facebook.com/events/471772346521488/](https://www.facebook.com/events/471772346521488/)
 
