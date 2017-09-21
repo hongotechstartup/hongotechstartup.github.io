@@ -179,6 +179,7 @@
 - Xcoo
 - TripleW
 - ネウボラ
+- ヒラソルエナジー
 - Fairy Devices
 - Feedforce
 - Provigate
