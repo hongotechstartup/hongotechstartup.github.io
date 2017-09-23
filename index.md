@@ -181,9 +181,10 @@
 - TripleW
 - ネウボラ
 - ヒラソルエナジー
-- Fairy Devices
 - Feedforce
+- Fairy Devices
 - Provigate
+- Future Standard
 - HOTARU
 - MUJIN
 - Moff
