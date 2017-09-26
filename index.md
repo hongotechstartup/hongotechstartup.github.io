@@ -175,7 +175,6 @@
 - G2One
 - G-PLANET
 - 情報基盤開発
-- シンクサイト
 - Sonas
 - Xcoo
 - TripleW
