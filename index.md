@@ -179,33 +179,58 @@
 - Axelspace
 - Active Connector
 - Appbrew
+- exiii
+- WOTA
+- Unsung&Web
+- エネチェンジ
 - Elephantech
 - LPixel
+- オトバンク
+- 川原万有情報網プロジェクト
 - Kisvin Science
+- クロスアビリティ
+- Genomedia
 - Coaido
-- Coconala
+- ココナラ
+- コーピー
 - 五稜化薬
+- SYMAX
+- Sapeet
 - Shojinmeat
 - 自然電力
-- スタートバーン
 - G2One
 - G-PLANET
+- 情報医療
 - 情報基盤開発
-- Sonas
+- SuKee
+- スジテク
+- スタートバーン
+- SenSprout
+- 遭遇設計
+- ソナス
+- DeepX
+- TVision Insights
 - Xcoo
 - TripleW
+- Nature Architects
 - ネウボラ
+- Bamboo0
 - ヒラソルエナジー
-- Feedforce
+- フィードフォース
 - Fairy Devices
 - Provigate
 - Future Standard
-- HOTARU
+- 本郷開発局
+- MAAI
+- マカイラ
 - MUJIN
+- 無職
+- MEMS-on
 - Moff
 - ユカイ工学
 - Lily MedTech
 - レヴィ
+- WACUL
 
 -----
 
